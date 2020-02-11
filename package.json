@@ -1,0 +1,10 @@
+{
+  "name": "wp2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jinja",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  }
+}
